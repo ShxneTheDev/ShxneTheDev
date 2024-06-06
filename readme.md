@@ -53,7 +53,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/shxne.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/assets/shane.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy programming and learning new things <br/><br/>
  📧 &emsp; Reach me anytime: shxnethedev.dev@gmail.com<br/><br/>
