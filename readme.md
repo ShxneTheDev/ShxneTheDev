@@ -1,5 +1,5 @@
 # 💫About Me :
-Hello, my name is Shane, I am 22 from the USA!
+Hello, my name is Shane, I am 23 from the USA!
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/Z6eF4QP4gD) 
